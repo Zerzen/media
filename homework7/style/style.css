@@ -1,0 +1,469 @@
+
+
+body{
+	border-color: #ffffff;
+	text-align: center;
+	
+}
+input::-webkit-input-placeholder {
+	text-align:left !important; 
+	color: white;
+
+}
+input:-moz-placeholder {
+	text-align:left !important;
+	color: white;
+
+}
+/*=============  HEDER ========== */
+header {
+	overflow: hidden;
+	padding-bottom: 49px;
+}
+div.wrapper {
+	max-width: 1256px;
+	margin: auto;
+}
+div.container {
+    float: left;
+}
+h1.logo1 {
+	font-size: 2.5rem;
+	font-weight: 700;
+	padding-left: 5%;
+    padding-top: 46px;
+}
+span.logo2 {
+	color: #dd4b2b;
+	font-size: 1rem;
+	font-weight: 400;
+	padding-left: 5%;
+}
+nav {
+	padding-top: 50px;
+}
+ul.menu {
+    max-width: 700px;
+    float: right;
+}
+ul.menu li {
+	display: inline-block;
+}
+ul.menu li a {
+	color: black;
+	display: inline-block;
+    padding: 15px 35px 16px 35px;
+    border-radius: 50px 50px 50px 50px;
+    transition: 0.5s;
+}
+li a:active {
+	color: white;
+	display: inline-block;
+    padding: 15px 35px 16px 35px;
+    border-radius: 50px 50px 50px 50px;
+    background: #dd4b2b
+}
+li a:hover {
+    color: white!important;
+    display: inline-block;
+    padding: 15px 35px 16px 35px;
+    border-radius: 50px 50px 50px 50px;
+    background: #dd4b2b
+
+}
+li a:visited {
+	color: black;
+}
+ /* ====== SECTION sat1 ====== */
+ div.main {
+ 	text-align: center;
+ }
+
+ section.sat1 {
+ 	overflow: hidden;
+ 	text-align: center;
+ 	color: white;
+ 	border-top: 1px solid black;
+ 	display: block;
+ 	height:1320px;
+ 	background-image:url(../img/backgound.png);
+}	
+section.sat1 h1 {
+	font-size: 5rem;
+    padding-top: 23.77%;
+ }
+section.sat1 h3 {
+ 	padding-top: 1%;
+    font-size: 2.5rem;
+ }
+ div.menu-conteiner {
+    overflow: hidden;
+ }
+div.menu-conteiner h3 {
+    font-size: 2rem;
+}
+div.menu1 {
+    font-size: 17px;
+    width: 30.333333%;
+    float: left;
+    line-height: 30px;
+    text-align: center;
+    padding-top: 6.2%;
+}
+div.menu1 h3 {
+	padding-top: 5.2%;
+}
+div.menu1 p {
+	padding-top: 5%;
+    
+}
+div.menu2 {
+    font-size: 17px;
+    width: 30.333333%;
+    float: left;
+    line-height: 30px;
+    text-align: center;
+    padding-top: 6.2%;
+    padding-left: 4%
+}
+div.menu2 h3 {
+	padding-top: 5.2%;
+    
+}
+div.menu2 p {
+	padding-top: 5%;   
+}
+div.menu3 {
+    font-size: 17px;
+    width: 30.333333%;
+    float: left;
+    line-height: 30px;
+    text-align: center;
+    padding-top: 6.2%;
+    padding-left: 4%;
+   
+}
+div.menu3 h3 {
+	padding-top: 5.2%;
+}
+div.menu3 p {
+	padding-top: 5%;   
+}
+div.button_read {
+	padding-top: 26.75%;
+}
+a.button {
+	color: black;
+	display: inline-block;
+    padding: 16px 61px 16px 61px;
+    border-radius: 50px 50px 50px 50px;
+    font-size: 1.3em;
+    background: #ffffff;
+}
+a.button:hover {
+    color: black;
+    display: inline-block;
+    padding: 16px 61px 16px 61px;
+    border-radius: 50px 50px 50px 50px;
+    font-size: 1.3em;
+    background: #dd4b2b;
+    transition: 0.5s;
+
+}
+
+/* ====== SECTION sat2 ====== */
+section.sat2 {
+	/*background-image:url(../img/cotleta.png);*/
+	display: block;
+	background-color: #edeff1;
+	overflow: hidden;
+	text-align: center;
+	height: 783px;
+}
+section.sat2 h2 {
+    font-size: 2em;
+    padding: 2.87%;
+    padding-bottom: 4%;
+
+}
+div.news1 {
+    float: left;
+    width: 32.3333%;
+    
+}
+div.news2 {
+	float: left;
+	width: 32.3333%;
+	padding-left: 1.4%;
+}
+div.news3 {
+	float: left;
+	width: 32.3333%;
+	padding-left: 1.4%;
+}
+h3.news {
+	font-size: 1.8rem;
+    padding-top: 8%;
+}
+p.news_post {
+	line-height: 1.5rem;
+    font-size: 1.13em;
+    padding-bottom: 9%;
+    padding-top: 1.2%;
+}
+a.news_link {
+	color: black;
+    display: inline-block;
+    padding: 16px 45px 16px 45px;
+    border-radius: 50px 50px 50px 50px;
+    font-size: 1.2rem;
+    background: #ffffff;
+}
+a.news_link:hover {
+    color: black;
+    display: inline-block;
+    padding: 16px 45px 16px 45px;
+    border-radius: 50px 50px 50px 50px;
+    font-size: 1.2em;
+    background: #dd4b2b;
+    transition: 0.5s;
+}
+/* ====== SECTION sat3 ====== */
+section.sat3 {
+	height: 382px;
+	color: white;
+	overflow: hidden;
+	display: block;
+	background-image:url(../img/cotleta.png);
+} 
+section.sat3 h2 { 
+    font-size: 2rem;
+    padding-top: 4.4%;
+    padding-bottom: 0.7%;
+}
+section.sat3 p {
+    padding-bottom: 2.1%;
+    padding-left: 35.62%;
+    padding-right: 38%;
+    line-height: 22px;
+}
+form.mail-form {
+    margin: auto;
+    max-width: 467px;
+}
+input.mail {
+    color: black;
+    width: 100%;
+    max-width: 437px;
+    padding: 14px;
+    font-size: 1.3em;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 27px;
+    position: absolute;
+    text-align: left !important;
+
+    display: block;
+	
+}
+input.button_mail {
+    background-color: white;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    padding: 14px 70px 14px 70px;
+    border-radius: 27px;
+    font-size: 1.3em;
+    float: right;
+    position: relative;
+}
+input.button_mail:hover {
+    background: #dd4b2b;
+    padding: 14px 70px 14px 70px;
+    border-radius: 27px;
+    font-size: 1.3em;
+    float: right;
+    position: relative;
+    transition: 0.5s;
+}
+/* ====== SECTION sat4 ====== */
+section.sat4{
+	padding-top: 68px;
+	overflow: hidden;
+	height: 950px;
+}
+section.sat4 h2 {
+	margin-left: 2%;
+	padding-bottom: 3.2%;
+    font-size: 2em;
+    float: left;
+    font-weight: 700;
+    width: 100%;
+    text-align: left;
+ }
+section.sat4 p {
+	font-size: 1rem;
+	line-height: 30px;
+	text-align: left;
+	margin-left: 3%;
+}
+section.sat4 p span {
+	margin-top: 4.8%;
+    display: block;
+    text-align: left;
+}
+
+section.sat4 a {
+    color: white;
+    display: inline-block;
+    padding: 16px 74px 16px 74px;
+    border-radius: 50px 50px 50px 50px;
+    background: #dd4b2b;
+    font-size: 1.3em;
+}
+section.sat4 a:hover {
+    color: white;
+    display: inline-block;
+    padding: 16px 74px 16px 74px;
+    border-radius: 50px 50px 50px 50px;
+    background: #4b4e73;
+    transition: 0.5s;
+
+    font-size: 1.3em;
+}
+div.link_product {
+    padding-top: 7.8%;
+    padding-left: 2.7%;
+    float: left
+}
+div.product_conteiner {
+    overflow: hidden;
+}
+div.product_detalis2 {
+	float: right;
+}
+div.product_text {
+    padding-top: 3.4%;
+    padding-left: 2.2%;
+    padding-bottom: 4.5%;
+    width: 45%;
+    float: left;
+}
+div.product-img {
+    float: right;
+    width: 45%;
+}
+div.product-img2 {
+    float: left;
+    width: 45%;
+}
+img.product_img {
+    max-width: 100%;
+}
+img.product_img2 {
+    max-width: 100%;
+}
+div.product_text2 {
+    padding-top: 3.4%;
+    padding-left: 2.2%;
+    padding-bottom: 4.5%;
+    width: 45%;
+    float: left;
+}
+div.product_text2 div.link_product { 
+  	padding-top: 6.8%;
+    padding-left: 2.7%;
+    float: left;
+}
+section.sat4 div.product_text2 a {
+    color: white;
+    display: inline-block;
+    padding: 16px 74px 16px 74px;
+    border-radius: 50px 50px 50px 50px;
+    background: #4b4e73;
+    font-size: 1.3em;
+}
+section.sat4 div.product_text2 a:hover {
+    color: white;
+    background: #dd4b2b;
+    transition: 0.5s;
+    display: inline-block;
+    padding: 16px 74px 16px 74px;
+    border-radius: 50px 50px 50px 50px;
+    background: #dd4b2b;
+    font-size: 1.3em;
+}
+/* ====== SECTION sat5 ====== */
+section.sat5 {
+	background-image: url(../img/orang.png);
+	overflow: hidden;
+	color: white;
+	height: 405px;
+}
+div.ul_list{
+	padding-top: 6.8%;
+    overflow: hidden;
+    margin: auto;
+    width: 90%;
+}
+ul.first_list {
+    font-size: 1.2rem;
+    line-height: 36px;
+    float: left;
+    padding-left: 13%
+}
+ul.first_list a:hover {
+    color: black!important;
+    transition: 0.5s;
+    display: inline-block;
+    padding:0.1px;
+    border-radius:none;
+    background: none;
+}
+ul.who_list {
+    font-size: 1.2rem;
+    line-height: 36px;
+    float: left;
+    padding-left: 13%;
+}
+ul.who_list a:hover {
+    color: black!important;
+    transition: 0.5s;
+    display: inline-block;
+    padding:0.1px;
+    border-radius:none;
+    background: none;
+}
+ul.three_list {
+    font-size: 1.2rem;
+    line-height: 36px;
+    float: left;
+    padding-left: 13%;
+}
+ul.three_list a:hover {
+    color: black!important;
+    transition: 0.5s;
+    display: inline-block;
+    padding:0.1px;
+    border-radius:none;
+    background: none;
+}
+section.sat5 a {
+	color: white;
+}
+footer {
+	background-image: url(../img/cotleta.png);
+	height: 383px;
+}
+footer p {
+	padding-top: 6.7%;
+    font-size: 1rem;
+    line-height: 24px;
+    color: white;
+    width: 50%;
+    text-align: center;
+    padding-left: 23%;
+    
+}
+footer p a {
+	color: white;
+	font-size: 1.2rem;
+}

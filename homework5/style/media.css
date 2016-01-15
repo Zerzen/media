@@ -1,0 +1,202 @@
+@media screen and (min-width: 320px) and (max-width: 479px) {
+ 	
+ 	div.saitbar_left {
+	 	overflow: hidden;
+	    float: left;
+	    max-width: 500px;
+	    width: 100%;
+	    height: auto;
+ 	}
+ 	 p.posts_content {
+ 		text-align: center;
+ 	}
+ 	div.content {
+ 		padding: 0;
+ 	}
+ 	div.side-text {
+ 		float: none;
+ 		margin: auto;
+ 	}
+ 	div.side-imeg {
+ 		float: none;
+ 		margin: auto;
+ 		padding: 0;
+ 	}
+
+ 	div.pagination {
+	    float: none;
+	    display: block;
+	    width: 248px;
+	    margin: auto;
+ 	}
+ 	div.pagination ul li.page {
+ 		width: 65px;
+ 	}
+ 	div.pagination ul li {
+ 		display: inline-block;
+   		margin-right: 0px;
+    	width: 20px;
+    	height: 20px;
+    	text-align: center;
+ 	}
+ 	ul.pagination-flickr {
+ 	    width: 254px;
+ 	}
+ 	.twit_rss ul li:first-child{
+ 		padding-right: 50px
+ 	}
+ 	.twit_rss ul li:nth-child(2){
+ 	padding-right: 0px;
+ 	}
+ 	ul.ul_twit_rss {
+ 		overflow: hidden;
+    	width: 195px;
+    	margin: auto;
+    	padding-top: 20px;
+	}
+ 	div.conteiner_saitbar_right {
+ 		width: 100%
+ 	}
+ 	div.saitbar_right {
+ 		height: auto;
+ 		margin: auto;
+ 		float: none;
+ 	}
+
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+
+	div.saitbar_left {
+	 	overflow: hidden;
+	    float: left;
+	    max-width: 400px;
+	    width: 100%;
+	    height: auto;
+ 	}
+ 	 p.posts_content {
+ 		text-align: center;
+ 		margin: auto;
+    	width: 90%;
+ 	}
+ 	p.fut_post {
+ 		display: block;
+    	width: 260px;
+    	margin: auto;
+ 	}
+
+ 	div.content {
+ 		padding: 0;
+ 		max-width: 800px;
+ 	}
+ 	div.side-cotnetnt{
+ 		width: 480px;
+    	margin: auto;
+ 	}
+;
+ 	div.side-text {
+ 		float: none;
+ 		margin: auto;
+ 		max-width: 245px;
+ 	}
+ 	div.side-imeg {
+ 		float: none;
+ 		margin: auto;
+ 		padding: 0;
+ 	}
+ 	div.imeg_content{
+ 		max-width: 600px;
+    	margin: auto;
+ 	}
+ 	p.coments {
+ 		width: 480px;
+    	margin: auto;
+ 	}
+ 	div.pagination {
+	    float: none;
+	    display: block;
+	    width: 248px;
+	    margin: auto;
+ 	}
+ 	div.pagination ul li.page {
+ 		width: 65px;
+ 	}
+ 	div.pagination ul li {
+ 		display: inline-block;
+   		margin-right: 0px;
+    	width: 20px;
+    	height: 20px;
+    	text-align: center;
+ 	}
+ 	ul.pagination-flickr {
+ 	    width: 254px;
+ 	}
+ 	.twit_rss ul li:first-child{
+ 		padding-right: 50px
+ 	}
+ 	.twit_rss ul li:nth-child(2){
+ 	padding-right: 0px;
+ 	}
+ 	ul.ul_twit_rss {
+ 		overflow: hidden;
+    	width: 195px;
+    	margin: auto;
+    	padding-top: 20px;
+	}
+ 	div.conteiner_saitbar_right {
+ 		width: 100%
+ 	}
+ 	div.saitbar_right {
+ 		height: auto;
+ 		margin: auto;
+ 		float: none;
+ 	}
+
+	
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	.twit_rss ul li:first-child{
+ 		padding-right: 50px
+ 	}
+ 	.twit_rss ul li:nth-child(2){
+ 	padding-right: 0px;
+ 	}
+ 	ul.ul_twit_rss {
+ 		overflow: hidden;
+    	width: 195px;
+    	margin: auto;
+    	padding-top: 20px;
+	}
+ 	div.conteiner_saitbar_right {
+ 		width: 100%
+ 	}
+ 	div.saitbar_right{
+ 		float: left;
+ 	    max-width: 500px;
+ 	    height: 1008px;
+ 	}
+ 	div.content{
+ 		padding: 0;
+ 	}
+  	div.saitbar_left {
+  		padding-right: 20px;
+  	}
+
+}
+@media screen and (min-width: 1024px) and(max-width: 1255px) {
+	
+}
+
+
+
+
+/*@media screen and (min-width: 1256px) and (max-width: ) {
+	
+}
+*/
+/*@media screen and (max-width: 480px) and (orientation: landscape) {
+	
+}
+@media screen and (max-width: 320px and max-width: 480px){
+	
+}*/

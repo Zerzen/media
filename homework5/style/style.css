@@ -1,0 +1,244 @@
+body {
+ 	font:11px/1.6 Arial, Verdana, Tahoma, sans-serif;
+}
+span.bold{
+	display: block;
+	font-weight: bold;
+	padding-bottom: 5px;
+}
+span.categories{
+	display: block;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-bottom: 5px;
+}
+span.padding_top{
+	font-weight: bold;
+	display: block;
+	padding-top: 15px;
+	padding-bottom: 10px;
+}
+span.Lifestyle{
+	display: block;
+	font-size: 0.9em;
+}
+span.grey_content{
+    color: #888888;
+}
+h1{
+  	font-size: 2em;
+ 	font-weight: bold;
+  	line-height: 1.2;
+  	text-align: left;
+  	padding-top: 7px;
+}
+h2{	font-weight: bold;
+  	line-height: 1.2;
+  	text-align: left;
+  	padding-top: 5px;
+  	padding-bottom: 7px;
+	font-size: 1.5em;
+}
+p.posts_content{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+p.fut_post{
+	display: block;
+}
+img{
+	max-width: 100%;
+}
+div.wrapper {
+	background-color: #f4f4f4;
+    max-width: 960px;
+    overflow: hidden;
+    margin: auto;
+}
+div.main{
+	max-width: 960px;
+	overflow: hidden;
+	padding-top: 25px
+}
+div.hedder {
+	background-color: white;
+	height: 50px;
+	overflow: hidden;
+}
+img.logotip {
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+div.content {
+	background-color: #f4f4f4;
+    max-width: 500px;
+    overflow: hidden;
+    margin: auto;
+    float: left;
+    padding-left: 20px;
+
+}
+div.imeg_content{
+	padding-top: 10px;
+	max-width: 100%;
+	overflow: hidden;
+	max-width: 500px;
+	height:250px;
+}
+div.side-cotnetnt{
+	overflow: hidden;
+	padding-top: 50px;
+	border-bottom: 1px solid #d6d6d6;
+}
+div.side-text{
+	overflow: hidden;
+	max-width: 245px;
+	height: 140px;
+	float: left;
+}
+div.side-imeg{
+	overflow: hidden;
+	padding-left: 10px;
+	float: right;
+  	max-width: 240px;
+  	height: 125px;	
+}
+div.pagination{
+	overflow: hidden;
+	padding-top: 60px;
+	float:left;
+}
+
+ul.pagination-flickr {
+	display: inline-block;
+	overflow: hidden;
+	float: left;
+}
+div.pagination ul li {
+	display: inline-block; 
+    margin-right: 2px;
+	max-width: 20px;
+	height: 20px;
+	text-align: center;
+}
+li.active{
+	color: #fff;
+    background-color: #555555;
+}
+div.pagination ul li.page{
+	display: inline-block;
+	float: left;
+	max-width: 70px;
+}
+.pagination-flickr a:hover {
+	color:#fff;
+	background-color: #555555;
+}
+a.pagination{
+	display: block;
+	max-width: 20px;
+	height: 20px;
+}
+
+
+/*------------------------left saitbar--------------*/
+div.saitbar_left {
+	overflow: hidden;
+	float: left;
+	max-width: 120px;
+	height: 1008px;
+}
+span.text_left_sitebat {
+	font-size: 0.9em;
+	display: block;
+	height: 42px;
+	padding-bottom: 10px;
+	
+}
+div.img_left_sitebar {
+	padding-top: 10px;
+	max-width: 100%;
+	height: 64px;
+	max-width: 120px;
+	
+}
+ul.menu_left_saidbar {
+	padding-top:;
+	height: 80px;
+	padding-bottom: 15px;
+}
+ul.menu_left_saidbar2{
+	padding-top: 10px;
+}
+ul.menu_left_saidbar li:hover
+{
+	color:#fff;
+	background-color: #555555;
+
+}
+ul.menu_left_saidbar li{
+	background-color: #e8e8e8;
+	border-bottom: 1px solid #f4f4f4;
+}
+ul.menu_left_saidbar2 li{
+	background-color: #e8e8e8;
+	border-bottom: 1px solid #f4f4f4;
+}
+a.left_saidbar_menu{
+	color: #000;
+}
+span.categoris_cifr{
+	display: block;
+    float: right;
+    font-size: 1em;
+    color: #888888;
+    padding-top: 1px
+}
+input{
+	max-width: 115px;
+}
+/*--------------------right saitbar-----------------*/
+div.saitbar_right {
+	float: right;
+	max-width: 300px;
+	height: 1008px;
+}
+div.footer {
+	height: 50px;
+}
+div.twit_rss{
+	padding-top: 20px;
+}
+.twit_rss ul li {
+    float: left;
+    max-width: 100px;
+   	padding-right: 50px;
+}
+.twit_rss img{
+    float: left;
+}
+span.twit_rss_text{
+	font-weight: bold;
+}
+div.img_right_saitbar{
+}
+div.sidebar_right_fot{
+	padding-top: 20px;
+
+}
+li.sidebar_160{
+	float: left;
+	max-width: 160px;
+	height: 200px;
+	padding-right: 10px;
+}
+li.sidebar_120{
+	float: left;
+	max-width: 120px;
+	height: 200px;
+	padding-left: 10px;
+}
+div.footer{
+	background-color: white;
+}
+
